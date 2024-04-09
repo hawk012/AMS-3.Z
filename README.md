@@ -20,7 +20,7 @@ The Small-scale Methodology VM0038 for Fuel Switch, Process Improvement, and Ene
 
 The AMS-3.Z policy addresses a critical necessity in mitigating environmental challenges linked with brick manufacturing processes, particularly concerning greenhouse gas (GHG) emissions. By furnishing a comprehensive framework for implementing fuel switch initiatives, process enhancements, and energy efficiency measures within brick manufacturing facilities, AMS-3.Z endeavors to alleviate environmental burdens and advocate for sustainability within the brick industry. Through its structured guidelines and procedures, AMS-3.Z promotes the adoption of renewable biomass and low-carbon fuels, contributing to climate change mitigation and resource conservation efforts. Furthermore, AMS-3.Z establishes transparent reporting and verification mechanisms, ensuring accountability among stakeholders and bolstering credibility in emission reduction initiatives within the brick manufacturing sector. With its global applicability and emphasis on sustainability, AMS-3.Z plays a pivotal role in advancing environmental stewardship and building resilient communities equipped to address the multifaceted impacts of environmental degradation.
 
-### Demo video
+### Demo video - https://vimeo.com/932214619?share=copy
 
 ### Policy Workflow
 
